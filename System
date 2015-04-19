@@ -1,0 +1,23 @@
+-- Palmetto Studios/ Greyscale O2 Engine Foundation
+-- TheStudentPilot
+-- April 18, 2014
+
+--[[
+	This is the foundation for Palmetto Studio's O2 Engine. The Engine that
+	will be used in, primarily, Greyscale. This Engine is built for speed,
+	efficiency, and organization. The goal is to work, by default with 
+	FilteringEnabled
+	
+	Note: This should be used in both a Script and LocalScipt
+	
+	--TheStudentPilot
+--]]
+
+print("O2 Engine: Loading...")
+local StartTime = tick() -- Removing after 1.0
+
+
+--------GAME FUNCTIONS GO HERE WITH _G--------
+
+local EndTime = tick() -- Removing after 1.0
+print("O2 Engine: Time Loaded: " .. tostring(EndTime-StartTime) .. " Seconds")
