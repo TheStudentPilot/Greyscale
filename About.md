@@ -15,4 +15,4 @@ Greyscale has many cool features! These include:
 * Much, Much More!
 To experience *all* of Greyscale's features.
 
-You can find the team on Twitter, following [@PalmettoStudios](http://www.twitter.com/PalmettoStudios)! We release new information everytime we get some! Thanks for sharing your interest in our game!
+You can find the team on Twitter, following [@PalmettoStudios](http://www.twitter.com/PalmettoStudios)! We release new information everytime we get some! Thanks for sharing your interest in our game! 
